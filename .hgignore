@@ -1,0 +1,10 @@
+syntax: regexp
+^\.classpath$
+syntax: regexp
+^\.project$
+syntax: regexp
+^\.settings$
+syntax: glob
+war/WEB-INF/classes/**
+syntax: glob
+war/rocket/**
